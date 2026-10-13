@@ -17,13 +17,3 @@ Here are some ideas to get you started:
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fwsarah95-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fwsarah95) [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/6146136?style=flat-square&logo=stackoverflow&logoColor=white&label=Stack%20Overflow%20%C2%B7%20Driftr95&color=F58025)](https://stackoverflow.com/users/6146136/driftr95) [![Gists](https://img.shields.io/badge/Gists-fwSara95h-24292F?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/fwSara95h) • ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Android](https://img.shields.io/badge/Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-F05138?style=flat-square&logo=swift&logoColor=white)
-
-
-### Public work
-
-| Public Work | What the repo is |
-| --- | --- |
-| [**ER-waits**](https://github.com/fwSara95h/london-ON-ER-wait-times-scraper) | Python scraper for the emergency-room wait times LHSC publishes for London, Ontario |
-| [**tcf-tracker**](https://github.com/fwSara95h/tcf-practice-tracker) | Go + SQLite web app for practising TCF Canada expression orale and écrite |
-| [**stackoverflow-driftr**](https://github.com/fwSara95h/stackoverflow-driftr) | Complete record of my Stack Overflow answers as [Driftr95](https://stackoverflow.com/users/6146136/driftr95), each committed at the time posted |
-| [**hw-enc**](https://github.com/fwSara95h/hardware-logic-encryption) | Senior design project: hardware encryption for sequential circuits, simulated in Synopsys Custom Designer |
